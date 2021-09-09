@@ -1,9 +1,8 @@
-# Jogo_da_cobrinha_com_js
+#### JOGO DA COBRINHA!
 
+<br>
 
+<br>
 
-
-
-
-
+![what is this](captura.png)
 
